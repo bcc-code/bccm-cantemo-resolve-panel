@@ -8,6 +8,6 @@
     "dev": "electron plugin"
   },
   "devDependencies": {
-    "electron": "^36.3.2"
+    "electron": "^41.10.6"
   }
 }
