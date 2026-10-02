@@ -1,0 +1,7 @@
+{
+  "name": "portal-for-resolve",
+  "version": "0.1.0",
+  "description": "DaVinci Resolve Workflow Integration: search Cantemo Portal and import media from mounted storage with linked proxies",
+  "main": "main.js",
+  "private": true
+}

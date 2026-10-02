@@ -1,0 +1,5 @@
+node_modules/
+# Owned by Blackmagic Design; copied from the local Resolve install by the install scripts
+WorkflowIntegration.node
+.DS_Store
+dist/

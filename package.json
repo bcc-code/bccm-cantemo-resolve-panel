@@ -1,0 +1,13 @@
+{
+  "name": "portal-for-resolve-dev",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Development workspace for the Portal for Resolve Workflow Integration plugin",
+  "scripts": {
+    "test": "node --test test/*.test.js",
+    "dev": "electron plugin"
+  },
+  "devDependencies": {
+    "electron": "^36.3.2"
+  }
+}
